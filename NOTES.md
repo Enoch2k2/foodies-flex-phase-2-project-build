@@ -1,5 +1,3 @@
-
-
 Features We Want
 * Create Recipes /recipes/new
 * List Recipes /recipes
@@ -11,9 +9,9 @@ Features We Want
 
 (Order) MVP
 ---
-1 Home Page
-2 Create Recipes
-3 List Recipes
+1 Home Page - x (still needs styling)
+2 List Recipes
+3 Create Recipes 
 
 Stretch Goals
 ---
