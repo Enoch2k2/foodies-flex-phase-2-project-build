@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Grilled Cheese",
+      "ingredients": "Cheese and Buttered Toast",
+      "directions": "Put butter on toast, fry cheese on top."
+    },
+    {
+      "id": 2,
+      "name": "Cereal",
+      "ingredients": "stuff",
+      "directions": "pour cereal, add milk"
+    },
+    {
+      "name": "Sunny Side Up",
+      "ingredients": "eggs",
+      "directions": "cook the eggs",
+      "id": 3
+    }
+  ]
+}
